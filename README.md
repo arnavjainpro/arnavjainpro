@@ -1,12 +1,8 @@
 <h1>Hi, I'm Arnav! <br/> <a href="https://www.linkedin.com/in/arnavjainpro/">Student</a>, <a href="https://github.com/arnavjainpro">Programmer</a> 
-<h2> About Me: 
-  
-<b>🏫I'm a student at Texas A&M going into computer science.
 
-<b>📚Below I've listed the projects that I've created.
 
 <h2>👨‍💻 Software Development Projects:</h2>
-  
+
 - <b>Java
   - to be linked
 - <b>Python</b>
@@ -16,6 +12,8 @@
   - Weather App
 - <b>Full Stack Website and App (React, NodeJS, HTML)</b>
   - [STEMVERSE](https://github.com/arnavjainpro/stemverse)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
