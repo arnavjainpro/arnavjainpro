@@ -6,7 +6,7 @@
 - <b>Java
   - to be linked
 - <b>Python</b>
-  - to be linked
+  - [QA Chat Bot](https://github.com/arnavjainpro/qachatbot)
 - <b>SwiftUI</b>
   - [Inventory Insight](https://github.com/arnavjainpro/InventoryInsight)
   - Weather App
