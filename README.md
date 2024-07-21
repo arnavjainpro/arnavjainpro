@@ -12,7 +12,7 @@
   - Weather App
 - <b>Full Stack Website and App (React, NodeJS, HTML)</b>
   - [STEMVERSE](https://github.com/arnavjainpro/stemverse)
-  - [Personal Portfolio](https://github.com/arnavjainpro/Arnav-Jain-Portfolio)
+  - [Personal Portfolio](https://github.com/arnavjainpro/portfolio)
 
 <h2> 🤳 Connect with me:</h2>
 
