@@ -10,7 +10,7 @@
 - <b>SwiftUI</b>
   - [Inventory Insight](https://github.com/arnavjainpro/InventoryInsight)
   - Weather App
-- <b>Full Stack Website and App (React, NodeJS, HTML)</b>
+- <b>Full Stack Website(React, NodeJS, HTML)</b>
   - [STEMVERSE](https://github.com/arnavjainpro/stemverse)
   - [Personal Portfolio](https://github.com/arnavjainpro/portfolio)
 
