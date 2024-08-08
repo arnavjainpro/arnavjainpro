@@ -6,6 +6,7 @@
 - <b>Java
   - to be linked
 - <b>Python</b>
+  - [Neural Network](https://github.com/arnavjainpro/neural_network)
   - [QA Chat Bot](https://github.com/arnavjainpro/qachatbot)
 - <b>SwiftUI</b>
   - [Inventory Insight](https://github.com/arnavjainpro/InventoryInsight)
