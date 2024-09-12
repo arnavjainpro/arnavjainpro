@@ -8,6 +8,7 @@
 - <b>Python</b>
   - [Neural Network](https://github.com/arnavjainpro/neural_network)
   - [QA Chat Bot](https://github.com/arnavjainpro/qachatbot)
+  - [PDFMerger](https://github.com/arnavjainpro/PDFMerger)
 - <b>SwiftUI</b>
   - [Inventory Insight](https://github.com/arnavjainpro/InventoryInsight)
   - Weather App
