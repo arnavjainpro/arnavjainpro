@@ -11,7 +11,8 @@
   - [PDFMerger](https://github.com/arnavjainpro/PDFMerger)
 - <b>SwiftUI</b>
   - [Inventory Insight](https://github.com/arnavjainpro/InventoryInsight)
-  - Weather App
+  - [Zypher - Weather App](https://github.com/arnavjainpro/Zypher)
+  - [Aetheria](https://github.com/arnavjainpro/Aetheria)
 - <b>Full Stack Website(React, NodeJS, HTML)</b>
   - [STEMVERSE](https://github.com/arnavjainpro/stemverse)
   - [Personal Portfolio](https://github.com/arnavjainpro/portfolio)
