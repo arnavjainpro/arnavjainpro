@@ -1,19 +1,29 @@
-<h1>Hi, I'm Arnav! <br/> <a href="https://www.linkedin.com/in/arnavjainpro/">Student</a>, <a href="https://github.com/arnavjainpro">Programmer</a> 
+# Hi, I'm Arnav! 👋  
+<a href="https://www.linkedin.com/in/arnavjainpro/">Student</a> • <a href="https://github.com/arnavjainpro">Programmer</a> • Tech Enthusiast  
 
+---
 
-<h2>👨‍💻 Software Development Projects:</h2>
+## 👨‍💻 Software Development Projects
 
-- <b>Python</b>
-  - [Neural Network](https://github.com/arnavjainpro/neural_network)
-  - [QA Chat Bot](https://github.com/arnavjainpro/qachatbot)
-  - [PDFMerger](https://github.com/arnavjainpro/PDFMerger)
-- <b>SwiftUI</b>
-  - [Inventory Insight](https://github.com/arnavjainpro/InventoryInsight)
-  - [Zypher - Weather App](https://github.com/arnavjainpro/Zypher)
-  - [Aetheria](https://github.com/arnavjainpro/Aetheria)
-- <b>Full Stack Website(React, NodeJS, HTML)</b>
-  - [STEMVERSE](https://github.com/arnavjainpro/stemverse)
-  - [Personal Portfolio](https://github.com/arnavjainpro/portfolio)
+### 🐍 Python
+- [Neural Network](https://github.com/arnavjainpro/neural_network) – Implemented from scratch with backpropagation and training visualization.  
+- [QA Chat Bot](https://github.com/arnavjainpro/qachatbot) – Interactive chatbot leveraging NLP techniques.  
+- [PDFMerger](https://github.com/arnavjainpro/PDFMerger) – Lightweight tool for merging multiple PDFs efficiently.  
+
+### 📱 SwiftUI
+- [Inventory Insight](https://github.com/arnavjainpro/InventoryInsight) – Smart inventory tracking app with analytics.  
+- [Zypher - Weather App](https://github.com/arnavjainpro/Zypher) – Modern weather app with real-time forecasts and clean UI.  
+- [Aetheria](https://github.com/arnavjainpro/Aetheria) – Health & wellness companion app with progress tracking.  
+
+### 🌐 Full Stack Web (React, Node.js, HTML/CSS)
+- [STEMVERSE](https://github.com/arnavjainpro/stemverse) – Educational platform built to inspire STEM learning.  
+- [Personal Portfolio](https://github.com/arnavjainpro/portfolio) – Showcasing my projects, skills, and achievements.  
+
+---
+
+## 📊 GitHub Stats  
+![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavjainpro&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavjainpro&layout=compact&theme=radical)  
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -24,18 +34,3 @@
 [twitter]: https://twitter.com/ajarnav
 [instagram]: https://www.instagram.com/arnxv_jain/
 [linkedin]: https://www.linkedin.com/in/arnavjainpro/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
